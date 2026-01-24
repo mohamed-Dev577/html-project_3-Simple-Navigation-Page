@@ -30,5 +30,5 @@ HTML/project_3 Simple Navigation Page
 
 ## صاحب المشروع 
 محمد حسين 
-متعلك تطوير الويب
+متعلم تطوير الويب
 
