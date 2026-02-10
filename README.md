@@ -25,6 +25,12 @@ project_3 Simple Navigation Page
 - استخدام شريط التنقل (nav) بشكل صحيح 
 - تنظيم المحتوي حيث يكون قابل للقراءة والفهم 
 
+
+
+## كيفية تشغيل هذا المشروع 
+قم بتشغيل ملف index.html في اي ملف
+
+
 ## هيكل المشروع 
 HTML/project_3 Simple Navigation Page
 index.html____| 
