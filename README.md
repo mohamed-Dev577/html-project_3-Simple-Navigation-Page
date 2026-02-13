@@ -33,8 +33,8 @@ project_3 Simple Navigation Page
 
 ## هيكل المشروع 
 HTML/project_3 Simple Navigation Page
-index.html____| 
-README.md_____|
+- index.html____| 
+- README.md_____|
 
 ## صاحب المشروع 
 - محمد حسين 
